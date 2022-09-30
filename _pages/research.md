@@ -72,6 +72,6 @@ author_profile: true
 
 **Resting Papers**
 
-[Unbelievable Lies](http://andrewtlittle.com/papers/unbelievable_web.pdf)  (with  [Sherif Nasser](https://dyson.cornell.edu/people/sherif-nasser)).
+[Unbelievable Lies](https://anthlittle.github.io/files/unbelievable_web.pdf)  (with  [Sherif Nasser](https://dyson.cornell.edu/people/sherif-nasser)).
 
 [Which Costly Signal to Send?](https://osf.io/2awr5)
