@@ -25,7 +25,7 @@ author_profile: true
 –  [Supplemental Information](https://anthlittle.github.io/files/btcep_appendix.pdf)
 
 [The Political Violence Cycle](https://anthlittle.github.io/files/pvc_web.pdf)  (with  [S.P. Harish](https://harishsp01.github.io/)). 2017.  _American Political Science Review_, Vol 111, No 2, 237-255.  
-–  [Supplemental Information](hhttps://anthlittle.github.io/files/pvc_appendix_published.pdf)  
+–  [Supplemental Information](https://anthlittle.github.io/files/pvc_appendix_published.pdf)  
 –  [Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GA0X38)
 
 [Propaganda and Credulity](https://anthlittle.github.io/files/little_propagandacredulity_web.pdf). 2017.  _Games and Economic Behavior_, 102, 224-232.  
