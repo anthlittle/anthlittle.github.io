@@ -9,19 +9,19 @@ Sign up for my office hours  [here](https://andrewlittle.youcanbook.me/).
 
 **Teaching Materials for Public Consumption**
 
-[Lecture Notes on Preferences](http://andrewtlittle.com/papers/little_preferences.pdf)
+[Lecture Notes on Preferences](https://anthlittle.github.io/files/little_preferences.pdf)
 
-[Problem set questions for PhD Formal Theory](http://andrewtlittle.com/wp-content/uploads/2020/06/little_formaltheoryproblems.pdf)
+[Problem set questions for PhD Formal Theory](https://anthlittle.github.io/files/little_formaltheoryproblems.pdf)
 
 **Classes taught at Berkeley**
 
-Formal Models in Political Science (Graduate,  [232A Syllabus](http://andrewtlittle.com/wp-content/uploads/2022/01/GT1syllabusS21.pdf),  [232B Syllabus](http://andrewtlittle.com/wp-content/uploads/2022/01/232BsyllabusFA21.pdf))
+Formal Models in Political Science (Graduate,  [232A Syllabus](https://anthlittle.github.io/files/GT1syllabusS21.pdf),  [232B Syllabus](https://anthlittle.github.io/files/232BsyllabusFA21.pdf))
 
-The Scientific Study of Politics (Undergraduate,  [Syllabus](http://andrewtlittle.com/wp-content/uploads/2022/01/ps88syllabusF2021.pdf),  [Github](https://github.com/ds-connectors/PolSci-88-FA21))
+The Scientific Study of Politics (Undergraduate,  [Syllabus](https://anthlittle.github.io/files/ps88syllabusF2021.pdf),  [Github](https://github.com/ds-connectors/PolSci-88-FA21))
 
-Intro to Empirical Analysis & Quantitative Methods ([Syllabus](http://andrewtlittle.com/wp-content/uploads/2022/01/ps3syllabusF2020.pdf))
+Intro to Empirical Analysis & Quantitative Methods ([Syllabus](https://anthlittle.github.io/files/ps3syllabusF2020.pdf))
 
-Game Theory in the Social Sciences (Undergraduate,  [Syllabus](http://andrewtlittle.com/wp-content/uploads/2022/01/gtss-syllabus-FA2017.pdf))
+Game Theory in the Social Sciences (Undergraduate,  [Syllabus](https://anthlittle.github.io/files/gtss-syllabus-FA2017.pdf))
 
 Research and Writing (Graduate)
 
