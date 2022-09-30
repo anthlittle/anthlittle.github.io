@@ -9,11 +9,7 @@ Sign up for my office hours  [here](https://andrewlittle.youcanbook.me/).
 
 **Teaching Materials for Public Consumption**
 
-[Three Templates for Introductions to Political Science Articles](http://andrewtlittle.com/papers/little_intros.pdf)
-
 [Lecture Notes on Preferences](http://andrewtlittle.com/papers/little_preferences.pdf)
-
-[How I Referee](http://andrewtlittle.com/wp-content/uploads/2020/04/Little-Refereeing-1.pdf)
 
 [Problem set questions for PhD Formal Theory](http://andrewtlittle.com/wp-content/uploads/2020/06/little_formaltheoryproblems.pdf)
 
