@@ -70,6 +70,10 @@ author_profile: true
 
 [Social Segregation and Discriminatory Policing](https://osf.io/9bnwy/)  (with  [Ryan Hübert](https://ryanhubert.com/))
 
+[Biased Learning from Elections](https://osf.io/q9zpm/) (with [Thomas Pepinsky](http://tompepinsky.com/)) and [Andrew Mack](https://sites.google.com/site/aemack315/))
+
+[Stronger Challengers can Cause More (or Less) Conflict and Institutional Reform](https://osf.io/2km3c/) (with [Jack Paine](http://www.jackpaine.com/))	
+
 **Resting Papers**
 
 [Unbelievable Lies](https://anthlittle.github.io/files/unbelievable_web.pdf)  (with  [Sherif Nasser](https://dyson.cornell.edu/people/sherif-nasser)).
