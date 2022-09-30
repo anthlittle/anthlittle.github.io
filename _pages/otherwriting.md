@@ -3,7 +3,6 @@ permalink: /otherwriting/
 title: "Other Writing"
 author_profile: true
 redirect_from: 
-  - /otherwriting/
   - /otherwriting.html
 ---
 
