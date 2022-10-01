@@ -7,7 +7,7 @@ author_profile: true
 
 **Peer-Reviewed**  **Publications**
 
-[Motivated Reasoning and Democratic Accountability](https://osf.io/preprints/socarxiv/esfy6/)  (with  [Keith Schnakenberg](http://keith-schnakenberg.com/)  and  [Ian Turner](http://www.ianrturner.com/)).  _Forthcoming, American Political Science Review_
+[Motivated Reasoning and Democratic Accountability](https://osf.io/preprints/socarxiv/esfy6/)  (with  [Keith Schnakenberg](http://keith-schnakenberg.com/)  and  [Ian Turner](http://www.ianrturner.com/)). 2022.  _American Political Science Review_, 116(2), 751--767
 
 [Kompromat can Align Incentives but Ruin Reputations](https://anthlittle.github.io/files/hubert-little-kompromat.pdf)  (with  [Ryan Hübert](https://ryanhubert.com/)).  _Forthcoming, American Journal of Political Science_.
 
@@ -58,11 +58,11 @@ author_profile: true
 
 **Working Papers**
 
-[Selection Neglect and Political Beliefs](https://osf.io/p49at/)  (with Matthew Brundage and Soo You)
-
-[Detecting Motivated Reasoning](https://osf.io/b8tvk)
+[Selection Neglect and Political Beliefs](https://osf.io/p49at/)  (with Matthew Brundage and Soo You) _Invited Submission, Annual Review of Political Science_
 
 [A Behavioral Theory of Discrimination in Policing](https://osf.io/g4c8w/)  (with  [Ryan Hübert](https://ryanhubert.com/)).  _Revise and Resubmit, Economic Journal_.
+
+[Detecting Motivated Reasoning](https://osf.io/b8tvk)
 
 [Constraints on Thinking Cause Overprecision](https://psyarxiv.com/evcx2/)  (with  [Matthew Backus](https://mbackus.github.io/)  and  [Don Moore](http://learnmoore.org/about.html).)
 
@@ -70,7 +70,7 @@ author_profile: true
 
 [Social Segregation and Discriminatory Policing](https://osf.io/9bnwy/)  (with  [Ryan Hübert](https://ryanhubert.com/))
 
-[Biased Learning from Elections](https://osf.io/q9zpm/) (with [Thomas Pepinsky](http://tompepinsky.com/)) and [Andrew Mack](https://sites.google.com/site/aemack315/))
+[Biased Learning from Elections](https://osf.io/q9zpm/) (with [Thomas Pepinsky](http://tompepinsky.com/) and [Andrew Mack](https://sites.google.com/site/aemack315/))
 
 [Stronger Challengers can Cause More (or Less) Conflict and Institutional Reform](https://osf.io/2km3c/) (with [Jack Paine](http://www.jackpaine.com/))	
 
