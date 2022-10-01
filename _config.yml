@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Andrew Little"
   avatar           : "atl.jpeg"
-  bio              : "Associate Professor of Political Science, UC Berkeley"
+  bio              : 
   location         : 
-  employer         :
+  employer         : "UC Berkeley"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1n3IoT0AAAAJ&hl=en"
   email            :
