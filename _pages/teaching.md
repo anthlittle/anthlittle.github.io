@@ -11,7 +11,7 @@ Sign up for my office hours  [here](https://andrewlittle.youcanbook.me/).
 
 [Lecture Notes on Preferences](https://anthlittle.github.io/files/little_preferences.pdf)
 
-[Problem set questions for PhD Formal Theory](https://anthlittle.github.io/files/little_formaltheoryproblems.pdf)
+[Problem set questions for PhD Formal Theory](https://anthlittle.github.io/files/little_formaltheoryproblems.pdf) ([More from others here](https://drive.google.com/drive/folders/1oBpHY8agGONQ33kI_TeC5CVg6qHC-RE7))
 
 **Classes taught at Berkeley**
 
