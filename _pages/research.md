@@ -62,6 +62,7 @@ author_profile: true
 **Working Papers**
 
 [Subjective and Objective Measurement of Democratic Backsliding](https://osf.io/n32zk/) (with [Anne Meng](http://www.annemeng.com/))
+- Coverage in [The Washington Post](https://wapo.st/3jUZ3Mm), [The Progress Network](https://theprogressnetwork.org/global-democratic-stability/) [The Interpreter (New York Times)](https://messaging-custom-newsletters.nytimes.com/template/oakv2?campaign_id=30&emc=edit_int_20230127&instance_id=83793&nl=the-interpreter&productCode=INT&regi_id=59763053&segment_id=123662&te=1&uri=nyt%3A%2F%2Fnewsletter%2F858ef62f-562c-5527-95ab-4b24e1bfc5e4&user_id=13dfd9334e1e15ec720dfd71e972a433) [Morgenbladet](https://www.morgenbladet.no/ideer/2023/02/03/joss-demokratiet-forvitrer-visst-ikke-likevel/)
 
 [Selection Neglect and Political Beliefs](https://osf.io/p49at/)  (with Matthew Brundage and Soo You) _Invited Submission, Annual Review of Political Science_
 
