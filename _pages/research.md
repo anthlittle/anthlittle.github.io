@@ -7,6 +7,9 @@ author_profile: true
 
 **Peer-Reviewed**  **Publications**
 
+[A Behavioral Theory of Discrimination in Policing](https://osf.io/g4c8w/)  (with  [Ryan Hübert](https://ryanhubert.com/)).  _Forthcoming, Economic Journal_.
+
+
 [Stronger Challengers can Cause More (or Less) Conflict and Institutional Reform](https://osf.io/2km3c/) (with [Jack Paine](http://www.jackpaine.com/)). _Forthcoming, Comparative Political Studies_
 
 
@@ -62,21 +65,21 @@ author_profile: true
 **Working Papers**
 
 [Subjective and Objective Measurement of Democratic Backsliding](https://osf.io/n32zk/) (with [Anne Meng](http://www.annemeng.com/))
-- Coverage in [The Washington Post](https://wapo.st/3jUZ3Mm), [The Progress Network](https://theprogressnetwork.org/global-democratic-stability/), [The Interpreter (New York Times)](https://messaging-custom-newsletters.nytimes.com/template/oakv2?campaign_id=30&emc=edit_int_20230127&instance_id=83793&nl=the-interpreter&productCode=INT&regi_id=59763053&segment_id=123662&te=1&uri=nyt%3A%2F%2Fnewsletter%2F858ef62f-562c-5527-95ab-4b24e1bfc5e4&user_id=13dfd9334e1e15ec720dfd71e972a433),  [Morgenbladet](https://www.morgenbladet.no/ideer/2023/02/03/joss-demokratiet-forvitrer-visst-ikke-likevel/), [Folha de S. Paulo](https://www1.folha.uol.com.br/mundo/2023/02/democracia-no-mundo-esta-estavel-nao-em-declinio-sugere-novo-estudo.shtml), [Ufuhamu Africa](https://open.spotify.com/episode/3kqM9Cgjgcd4xUMYZ93t4F?si=q3rNoFhwSiKen7zzFCzskw), [Not Another Politics Podcast](https://effectivegov.uchicago.edu/podcast/are-we-in-a-period-of-global-democratic-decline)
+- Coverage in [The Washington Post](https://wapo.st/3jUZ3Mm), [The Progress Network](https://theprogressnetwork.org/global-democratic-stability/), [The Interpreter (New York Times)](https://messaging-custom-newsletters.nytimes.com/template/oakv2?campaign_id=30&emc=edit_int_20230127&instance_id=83793&nl=the-interpreter&productCode=INT&regi_id=59763053&segment_id=123662&te=1&uri=nyt%3A%2F%2Fnewsletter%2F858ef62f-562c-5527-95ab-4b24e1bfc5e4&user_id=13dfd9334e1e15ec720dfd71e972a433),  [Morgenbladet](https://www.morgenbladet.no/ideer/2023/02/03/joss-demokratiet-forvitrer-visst-ikke-likevel/), [Folha de S. Paulo](https://www1.folha.uol.com.br/mundo/2023/02/democracia-no-mundo-esta-estavel-nao-em-declinio-sugere-novo-estudo.shtml), [Positive News](https://www.positive.news/society/politics/populism-appears-to-be-falling-out-of-favour-for-now/) [Ufuhamu Africa](https://open.spotify.com/episode/3kqM9Cgjgcd4xUMYZ93t4F?si=q3rNoFhwSiKen7zzFCzskw), [Not Another Politics Podcast](https://effectivegov.uchicago.edu/podcast/are-we-in-a-period-of-global-democratic-decline)
 
 [Selection Neglect and Political Beliefs](https://osf.io/p49at/)  (with Matthew Brundage and Soo You) _Invited Submission, Annual Review of Political Science_
-
-[A Behavioral Theory of Discrimination in Policing](https://osf.io/g4c8w/)  (with  [Ryan Hübert](https://ryanhubert.com/)).  _Revise and Resubmit, Economic Journal_.
 
 [Detecting Motivated Reasoning](https://osf.io/b8tvk)
 
 [Constraints on Thinking Cause Overprecision](https://psyarxiv.com/evcx2/)  (with  [Matthew Backus](https://mbackus.github.io/)  and  [Don Moore](http://learnmoore.org/about.html).)
 
-[Bayesian Explanations for Persuasion](https://osf.io/ygw8e/)
+[Bayesian Explanations for Persuasion](https://osf.io/ygw8e/). _Revise and Resubmit, Journal of Theoretical Politics_
 
 [Social Segregation and Discriminatory Policing](https://osf.io/9bnwy/)  (with  [Ryan Hübert](https://ryanhubert.com/))
 
 [Biased Learning from Elections](https://osf.io/q9zpm/) (with [Thomas Pepinsky](http://tompepinsky.com/) and [Andrew Mack](https://sites.google.com/site/aemack315/))
+
+Who Pleads Guility? (with [Hannah Simpson](http://www.hannahksimpson.com/))
 
 **Resting Papers**
 
