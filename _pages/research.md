@@ -7,6 +7,9 @@ author_profile: true
 
 **Peer-Reviewed**  **Publications**
 
+[Bayesian Explanations for Persuasion](https://osf.io/ygw8e/). _Forthcoming, Journal of Theoretical Politics_
+
+
 [A Behavioral Theory of Discrimination in Policing](https://osf.io/g4c8w/)  (with  [Ryan Hübert](https://ryanhubert.com/)).  _Forthcoming, Economic Journal_.
 
 
@@ -72,8 +75,6 @@ author_profile: true
 [Detecting Motivated Reasoning](https://osf.io/b8tvk)
 
 [Constraints on Thinking Cause Overprecision](https://psyarxiv.com/evcx2/)  (with  [Matthew Backus](https://mbackus.github.io/)  and  [Don Moore](http://learnmoore.org/about.html).)
-
-[Bayesian Explanations for Persuasion](https://osf.io/ygw8e/). _Revise and Resubmit, Journal of Theoretical Politics_
 
 [Social Segregation and Discriminatory Policing](https://osf.io/9bnwy/)  (with  [Ryan Hübert](https://ryanhubert.com/))
 
