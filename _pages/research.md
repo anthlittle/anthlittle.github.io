@@ -7,6 +7,10 @@ author_profile: true
 
 **Peer-Reviewed**  **Publications**
 
+[Measuring Democratic Backsliding](https://osf.io/n32zk/) (with [Anne Meng](http://www.annemeng.com/)). _Forthcoming as the lead article in a special issue in PS: Political Science and Politics_
+- Coverage in [The Washington Post](https://wapo.st/3jUZ3Mm), [The Progress Network](https://theprogressnetwork.org/global-democratic-stability/), [The Interpreter (New York Times)](https://messaging-custom-newsletters.nytimes.com/template/oakv2?campaign_id=30&emc=edit_int_20230127&instance_id=83793&nl=the-interpreter&productCode=INT&regi_id=59763053&segment_id=123662&te=1&uri=nyt%3A%2F%2Fnewsletter%2F858ef62f-562c-5527-95ab-4b24e1bfc5e4&user_id=13dfd9334e1e15ec720dfd71e972a433),  [Morgenbladet](https://www.morgenbladet.no/ideer/2023/02/03/joss-demokratiet-forvitrer-visst-ikke-likevel/), [Folha de S. Paulo](https://www1.folha.uol.com.br/mundo/2023/02/democracia-no-mundo-esta-estavel-nao-em-declinio-sugere-novo-estudo.shtml), [Positive News](https://www.positive.news/society/politics/populism-appears-to-be-falling-out-of-favour-for-now/) [Ufuhamu Africa](https://open.spotify.com/episode/3kqM9Cgjgcd4xUMYZ93t4F?si=q3rNoFhwSiKen7zzFCzskw), [Not Another Politics Podcast](https://effectivegov.uchicago.edu/podcast/are-we-in-a-period-of-global-democratic-decline) [The Good Fight](https://podcasts.apple.com/us/podcast/is-democracy-more-resilient-than-we-think/id1198765424?i=1000623514630)
+
+
 [Bayesian Explanations for Persuasion](https://osf.io/ygw8e/). _Forthcoming, Journal of Theoretical Politics_
 
 
@@ -66,9 +70,6 @@ author_profile: true
 [Simple and Formal Models in Comparative Politics](https://anthlittle.github.io/files/cpformal_web.pdf)  (with  [Thomas Pepinsky](http://tompepinsky.com/)). 2016.  _Chinese Political Science Review_. Vol 1, No 3, 425-447. (Editor Invited)
 
 **Working Papers**
-
-[Subjective and Objective Measurement of Democratic Backsliding](https://osf.io/n32zk/) (with [Anne Meng](http://www.annemeng.com/))
-- Coverage in [The Washington Post](https://wapo.st/3jUZ3Mm), [The Progress Network](https://theprogressnetwork.org/global-democratic-stability/), [The Interpreter (New York Times)](https://messaging-custom-newsletters.nytimes.com/template/oakv2?campaign_id=30&emc=edit_int_20230127&instance_id=83793&nl=the-interpreter&productCode=INT&regi_id=59763053&segment_id=123662&te=1&uri=nyt%3A%2F%2Fnewsletter%2F858ef62f-562c-5527-95ab-4b24e1bfc5e4&user_id=13dfd9334e1e15ec720dfd71e972a433),  [Morgenbladet](https://www.morgenbladet.no/ideer/2023/02/03/joss-demokratiet-forvitrer-visst-ikke-likevel/), [Folha de S. Paulo](https://www1.folha.uol.com.br/mundo/2023/02/democracia-no-mundo-esta-estavel-nao-em-declinio-sugere-novo-estudo.shtml), [Positive News](https://www.positive.news/society/politics/populism-appears-to-be-falling-out-of-favour-for-now/) [Ufuhamu Africa](https://open.spotify.com/episode/3kqM9Cgjgcd4xUMYZ93t4F?si=q3rNoFhwSiKen7zzFCzskw), [Not Another Politics Podcast](https://effectivegov.uchicago.edu/podcast/are-we-in-a-period-of-global-democratic-decline)
 
 [Selection Neglect and Political Beliefs](https://osf.io/p49at/)  (with Matthew Brundage and Soosun You) _Invited Submission, Annual Review of Political Science_
 
