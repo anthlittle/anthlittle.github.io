@@ -16,4 +16,3 @@ Recently I was part of an effort to create a Formal Theory section at APSA, and 
 
 [CV](https://anthlittle.github.io/files/little_cv2023.pdf)
 
-[Mastodon](https://econtwitter.net/@anthlittle)
