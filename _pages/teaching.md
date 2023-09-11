@@ -5,7 +5,7 @@ title: "Teaching"
 author_profile: true
 ---
 
-Sign up for my office hours  [here](https://andrewlittle.youcanbook.me/).
+Sign up for my office hours  [here](https://calendar.google.com/calendar/selfsched?sstoken=UUh1UUZmQml5cTRUfGRlZmF1bHR8NzBiYTg5YzQyZGRhZWYzOTljODYwZWIxYWJkOWIwNTI).
 
 **Teaching Materials for Public Consumption**
 
