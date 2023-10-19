@@ -65,26 +65,34 @@ author_profile: true
 
 **Other Publications**
 
+What We Do and Don't Know About Democratic Backsliding (with Anne Meng).  _Forthcoming, PS: Political Science and Politics_
+
+[Selection Neglect and Political Beliefs](https://osf.io/p49at/).  (with Matthew Brundage and Soosun You) _Forthcoming, Annual Review of Political Science_
+
 [Fake News, Propaganda, and Lies Can Be Pervasive Even If They Aren’t Persuasive](https://anthlittle.github.io/files/little_fakenews_cp.pdf). 2018.  _Comparative Politics Newsletter_, 28(2), 49–55.
 
 [Simple and Formal Models in Comparative Politics](https://anthlittle.github.io/files/cpformal_web.pdf)  (with  [Thomas Pepinsky](http://tompepinsky.com/)). 2016.  _Chinese Political Science Review_. Vol 1, No 3, 425-447. (Editor Invited)
 
 **Working Papers**
 
-[Selection Neglect and Political Beliefs](https://osf.io/p49at/)  (with Matthew Brundage and Soosun You) _Invited Submission, Annual Review of Political Science_
-
 [Detecting Motivated Reasoning](https://osf.io/b8tvk)
-
-[Constraints on Thinking Cause Overprecision](https://psyarxiv.com/evcx2/)  (with  [Matthew Backus](https://mbackus.github.io/)  and  [Don Moore](http://learnmoore.org/about.html).)
 
 [Social Segregation and Discriminatory Policing](https://osf.io/9bnwy/)  (with  [Ryan Hübert](https://ryanhubert.com/))
 
 [Biased Learning from Elections](https://osf.io/q9zpm/) (with [Thomas Pepinsky](http://tompepinsky.com/) and [Andrew Mack](https://sites.google.com/site/aemack315/))
 
-Who Pleads Guility? (with [Hannah Simpson](http://www.hannahksimpson.com/))
+Who Pleads Guilty? (with [Hannah Simpson](http://www.hannahksimpson.com/))
+
+Thinking and Confidence (with Ned Augenblick, Matthew Backus, and Don Moore)
+
+Communication and Coordination in the Shadow of Repression (with Tak-Huen Chau and Mai Hassan)
+
+Limits on Learning: Selective Incorporation and Retention of Political Information (with Melina Platas and Pia Raffler)
 
 **Resting Papers**
 
 [Unbelievable Lies](https://anthlittle.github.io/files/unbelievable_web.pdf)  (with  [Sherif Nasser](https://dyson.cornell.edu/people/sherif-nasser)).
 
 [Which Costly Signal to Send?](https://osf.io/2awr5)
+
+[Constraints on Thinking Cause Overprecision](https://psyarxiv.com/evcx2/)  (with  [Matthew Backus](https://mbackus.github.io/)  and  [Don Moore](http://learnmoore.org/about.html).)
