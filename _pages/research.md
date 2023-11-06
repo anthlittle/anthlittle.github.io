@@ -81,7 +81,7 @@ What We Do and Don't Know About Democratic Backsliding (with Anne Meng).  _Forth
 
 [Biased Learning from Elections](https://osf.io/q9zpm/) (with [Thomas Pepinsky](http://tompepinsky.com/) and [Andrew Mack](https://sites.google.com/site/aemack315/))
 
-Who Pleads Guilty? (with [Hannah Simpson](http://www.hannahksimpson.com/))
+[Guilt and Guilty Pleas](https://osf.io/h9wnd/) (with [Hannah Simpson](http://www.hannahksimpson.com/))
 
 Thinking and Confidence (with Ned Augenblick, Matthew Backus, and Don Moore)
 
