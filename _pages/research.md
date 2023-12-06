@@ -85,7 +85,7 @@ What We Do and Don't Know About Democratic Backsliding (with Anne Meng).  _Forth
 
 Thinking and Confidence (with Ned Augenblick, Matthew Backus, and Don Moore)
 
-Communication and Coordination in the Shadow of Repression (with Tak-Huen Chau and Mai Hassan)
+[Communication and Coordination in the Shadow of Repression](https://osf.io/preprints/osf/eprjt) (with Tak-Huen Chau and Mai Hassan)
 
 Limits on Learning: Selective Incorporation and Retention of Political Information (with Melina Platas and Pia Raffler)
 
