@@ -26,7 +26,7 @@ author_profile: true
 
 [Learning from Biased Research Designs](https://anthlittle.github.io/files/learningfromobservation.pdf)  (with  [Thomas Pepinsky](http://tompepinsky.com/))  _Journal of Politics_, 83(2), 602-616.
 
-[I Don’t Know](https://anthlittle.github.io/files/i_dont_know.pdf)  (with  [Matthew Backus](https://sites.google.com/a/umich.edu/mrb/)).2020.  _American Political Science Review_. 113(3), 724-743.  
+[I Don’t Know](https://anthlittle.github.io/files/i_dont_know.pdf)  (with  [Matthew Backus](https://mbackus.github.io/)).2020.  _American Political Science Review_. 113(3), 724-743.  
 –  [Supplemental Information](https://anthlittle.github.io/files/idk_apsr_appendix_final.pdf)
 
 [The Distortion of Related Beliefs](https://anthlittle.github.io/files/little_drb_web.pdf). 2019.  _American Journal of Political Science_. 63(3), 675-689.
@@ -65,9 +65,9 @@ author_profile: true
 
 **Other Publications**
 
-What We Do and Don't Know About Democratic Backsliding (with Anne Meng).  _Forthcoming, PS: Political Science and Politics_
+What We Do and Don't Know About Democratic Backsliding (with [Anne Meng](http://www.annemeng.com/)).  _Forthcoming, PS: Political Science and Politics_
 
-[Selection Neglect and Political Beliefs](https://osf.io/p49at/).  (with Matthew Brundage and Soosun You) _Forthcoming, Annual Review of Political Science_
+[Selection Neglect and Political Beliefs](https://osf.io/p49at/).  (with [Matthew Brundage](https://polisci.berkeley.edu/people/person/matthew-brundage) and [Soosun You](https://polisci.berkeley.edu/people/person/soo-you)) _Forthcoming, Annual Review of Political Science_
 
 [Fake News, Propaganda, and Lies Can Be Pervasive Even If They Aren’t Persuasive](https://anthlittle.github.io/files/little_fakenews_cp.pdf). 2018.  _Comparative Politics Newsletter_, 28(2), 49–55.
 
@@ -77,17 +77,19 @@ What We Do and Don't Know About Democratic Backsliding (with Anne Meng).  _Forth
 
 [Detecting Motivated Reasoning](https://osf.io/b8tvk)
 
+[Information Theory and Biased Beliefs](https://osf.io/preprints/osf/vfqy2)
+
 [Social Segregation and Discriminatory Policing](https://osf.io/9bnwy/)  (with  [Ryan Hübert](https://ryanhubert.com/))
 
 [Biased Learning from Elections](https://osf.io/q9zpm/) (with [Thomas Pepinsky](http://tompepinsky.com/) and [Andrew Mack](https://sites.google.com/site/aemack315/))
 
 [Guilt and Guilty Pleas](https://osf.io/h9wnd/) (with [Hannah Simpson](http://www.hannahksimpson.com/))
 
-Thinking and Confidence (with Ned Augenblick, Matthew Backus, and Don Moore)
+Thinking and Confidence (with [Ned Augenblick](https://haas.berkeley.edu/faculty/augenblick-ned/), [Matthew Backus](https://mbackus.github.io/), and [Don Moore](http://learnmoore.org/about.html))
 
-[Communication and Coordination in the Shadow of Repression](https://osf.io/preprints/osf/eprjt) (with Tak-Huen Chau and Mai Hassan)
+[Communication and Coordination in the Shadow of Repression](https://osf.io/preprints/osf/eprjt) (with [Tak-Huen Chau](https://www.thchau.net/) and [Mai Hassan](https://maihassan.mit.edu/))
 
-Limits on Learning: Selective Incorporation and Retention of Political Information (with Melina Platas and Pia Raffler)
+Limits on Learning: Selective Incorporation and Retention of Political Information (with [Melina Platas](https://melinaplatas.com/) and [Pia Raffler](https://piaraffler.com/))
 
 **Resting Papers**
 
