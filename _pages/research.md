@@ -7,7 +7,7 @@ author_profile: true
 
 **Peer-Reviewed**  **Publications**
 
-[Measuring Democratic Backsliding](https://osf.io/n32zk/) (with [Anne Meng](http://www.annemeng.com/)). _Forthcoming as the lead article in a special issue in PS: Political Science and Politics_
+[Measuring Democratic Backsliding](https://osf.io/n32zk/) (with [Anne Meng](http://www.annemeng.com/)). _Lead article in a [special issue](https://www.cambridge.org/core/journals/ps-political-science-and-politics/special-collections/democratic-backsliding) in PS: Political Science and Politics_
 - Coverage in [The Washington Post](https://wapo.st/3jUZ3Mm), [The Progress Network](https://theprogressnetwork.org/global-democratic-stability/), [The Interpreter (New York Times)](https://messaging-custom-newsletters.nytimes.com/template/oakv2?campaign_id=30&emc=edit_int_20230127&instance_id=83793&nl=the-interpreter&productCode=INT&regi_id=59763053&segment_id=123662&te=1&uri=nyt%3A%2F%2Fnewsletter%2F858ef62f-562c-5527-95ab-4b24e1bfc5e4&user_id=13dfd9334e1e15ec720dfd71e972a433), [Salon](https://www.salon.com/2023/03/25/is-democracy-starting-to-turn-the-tide-around-the-world-a-new-report-says-just-maybe/), [The Economist](https://www.economist.com/interactive/graphic-detail/2023/09/12/democratic-backsliding-seems-real-even-if-it-is-hard-to-measure), [Morgenbladet](https://www.morgenbladet.no/ideer/2023/02/03/joss-demokratiet-forvitrer-visst-ikke-likevel/), [Folha de S. Paulo](https://www1.folha.uol.com.br/mundo/2023/02/democracia-no-mundo-esta-estavel-nao-em-declinio-sugere-novo-estudo.shtml), [Estadao](https://www.estadao.com.br/politica/gestao-politica-e-sociedade/retrocesso-democratico-global-sobre-conceitos-e-mensuracoes-adequadas/), [Positive News](https://www.positive.news/society/politics/populism-appears-to-be-falling-out-of-favour-for-now/), [The Progress Network](https://theprogressnetwork.org/global-democratic-stability/), [Democracy Digest](https://www.demdigest.org/breaking-news-democracy-more-resilient-than-expected/), [Real Clear Science](https://www.realclearscience.com/articles/2023/01/27/actually_global_democracy_isnt_in_decline_878081.html), [Ufuhamu Africa](https://open.spotify.com/episode/3kqM9Cgjgcd4xUMYZ93t4F?si=q3rNoFhwSiKen7zzFCzskw), [Not Another Politics Podcast](https://effectivegov.uchicago.edu/podcast/are-we-in-a-period-of-global-democratic-decline), [The Good Fight](https://podcasts.apple.com/us/podcast/is-democracy-more-resilient-than-we-think/id1198765424?i=1000623514630), [The Politics Lab](https://www.thepoliticslab.com/episodes/124)
 
 
@@ -22,9 +22,9 @@ author_profile: true
 
 [Motivated Reasoning and Democratic Accountability](https://osf.io/preprints/socarxiv/esfy6/)  (with  [Keith Schnakenberg](http://keith-schnakenberg.com/)  and  [Ian Turner](http://www.ianrturner.com/)). 2022.  _American Political Science Review_, 116(2), 751--767
 
-[Kompromat can Align Incentives but Ruin Reputations](https://anthlittle.github.io/files/hubert-little-kompromat.pdf)  (with  [Ryan Hübert](https://ryanhubert.com/)).  _Forthcoming, American Journal of Political Science_.
+[Kompromat can Align Incentives but Ruin Reputations](https://anthlittle.github.io/files/hubert-little-kompromat.pdf)  (with  [Ryan Hübert](https://ryanhubert.com/)).  2022. _American Journal of Political Science, 66(4)_.
 
-[Learning from Biased Research Designs](https://anthlittle.github.io/files/learningfromobservation.pdf)  (with  [Thomas Pepinsky](http://tompepinsky.com/))  _Journal of Politics_, 83(2), 602-616.
+[Learning from Biased Research Designs](https://anthlittle.github.io/files/learningfromobservation.pdf)  (with  [Thomas Pepinsky](http://tompepinsky.com/)). 2021.  _Journal of Politics_, 83(2), 602-616.
 
 [I Don’t Know](https://anthlittle.github.io/files/i_dont_know.pdf)  (with  [Matthew Backus](https://mbackus.github.io/)).2020.  _American Political Science Review_. 113(3), 724-743.  
 –  [Supplemental Information](https://anthlittle.github.io/files/idk_apsr_appendix_final.pdf)
@@ -65,7 +65,7 @@ author_profile: true
 
 **Other Publications**
 
-What We Do and Don't Know About Democratic Backsliding (with [Anne Meng](http://www.annemeng.com/)).  _Forthcoming, PS: Political Science and Politics_
+[What We Do and Don't Know About Democratic Backsliding](https://anthlittle.github.io/files/little_meng_psreply.pdf) (with [Anne Meng](http://www.annemeng.com/)).  _Forthcoming, PS: Political Science and Politics_
 
 [Selection Neglect and Political Beliefs](https://osf.io/p49at/).  (with [Matthew Brundage](https://polisci.berkeley.edu/people/person/matthew-brundage) and [Soosun You](https://polisci.berkeley.edu/people/person/soo-you)) _Forthcoming, Annual Review of Political Science_
 
