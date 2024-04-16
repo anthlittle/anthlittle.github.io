@@ -75,6 +75,10 @@ author_profile: true
 
 **Working Papers**
 
+[Guilt and Guilty Pleas](https://osf.io/h9wnd/) (with [Hannah Simpson](http://www.hannahksimpson.com/)). _Revise and Resubmit, American Political Science Review_
+
+[Communication and Coordination in the Shadow of Repression](https://osf.io/preprints/osf/eprjt) (with [Tak-Huen Chau](https://www.thchau.net/) and [Mai Hassan](https://maihassan.mit.edu/)). _Revise and Resubmit, American Journal of Political Science_
+
 [Detecting Motivated Reasoning](https://osf.io/b8tvk)
 
 [Information Theory and Biased Beliefs](https://osf.io/preprints/osf/vfqy2)
@@ -83,11 +87,9 @@ author_profile: true
 
 [Biased Learning from Elections](https://osf.io/q9zpm/) (with [Thomas Pepinsky](http://tompepinsky.com/) and [Andrew Mack](https://sites.google.com/site/aemack315/))
 
-[Guilt and Guilty Pleas](https://osf.io/h9wnd/) (with [Hannah Simpson](http://www.hannahksimpson.com/))
+Assumptions, Models, and Overprecision (with [Ned Augenblick](https://haas.berkeley.edu/faculty/augenblick-ned/), [Matthew Backus](https://mbackus.github.io/), and [Don Moore](http://learnmoore.org/about.html))
 
-Thinking and Confidence (with [Ned Augenblick](https://haas.berkeley.edu/faculty/augenblick-ned/), [Matthew Backus](https://mbackus.github.io/), and [Don Moore](http://learnmoore.org/about.html))
 
-[Communication and Coordination in the Shadow of Repression](https://osf.io/preprints/osf/eprjt) (with [Tak-Huen Chau](https://www.thchau.net/) and [Mai Hassan](https://maihassan.mit.edu/))
 
 Limits on Learning: Selective Incorporation and Retention of Political Information (with [Melina Platas](https://melinaplatas.com/) and [Pia Raffler](https://piaraffler.com/))
 
