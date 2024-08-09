@@ -7,7 +7,7 @@ author_profile: true
 
 **Peer-Reviewed**  **Publications**
 
-[Guilt and Guilty Pleas](https://www.cambridge.org/core/journals/american-political-science-review/article/guilt-and-guilty-pleas/4130613FB4184605B237095630EF99F8) (with [Hannah Simpson](http://www.hannahksimpson.com/)). _American Political Science Review._
+[Guilt and Guilty Pleas](https://www.cambridge.org/core/journals/american-political-science-review/article/guilt-and-guilty-pleas/4130613FB4184605B237095630EF99F8) (with [Hannah Simpson](http://www.hannahksimpson.com/)). _Forthcoming, American Political Science Review._
 
 [Communication, Coordination, and Surveillance in the Shadow of Repression](https://osf.io/preprints/osf/eprjt) (with [Tak-Huen Chau](https://www.thchau.net/) and [Mai Hassan](https://maihassan.mit.edu/)). _Forthcoming, American Journal of Political Science_
 
