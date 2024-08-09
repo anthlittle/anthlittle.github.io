@@ -75,9 +75,9 @@ author_profile: true
 
 [Selection Neglect and Political Beliefs](https://anthlittle.github.io/files/sn_arps.pdf).  (with [Matthew Brundage](https://polisci.berkeley.edu/people/person/matthew-brundage) and [Soosun You](https://polisci.berkeley.edu/people/person/soo-you)) 2024. _Annual Review of Political Science_
 
-[Fake News, Propaganda, and Lies Can Be Pervasive Even If They Aren’t Persuasive](https://anthlittle.github.io/files/little_fakenews_cp.pdf). 2018.  _Comparative Politics Newsletter_, 28(2), 49–55.
+[Fake News, Propaganda, and Lies Can Be Pervasive Even If They Aren’t Persuasive](https://anthlittle.github.io/files/little_fakenews_cp.pdf). 2018.  _Comparative Politics Newsletter_.
 
-[Simple and Formal Models in Comparative Politics](https://anthlittle.github.io/files/cpformal_web.pdf)  (with  [Thomas Pepinsky](http://tompepinsky.com/)). 2016.  _Chinese Political Science Review_. Vol 1, No 3, 425-447. (Editor Invited)
+[Simple and Formal Models in Comparative Politics](https://anthlittle.github.io/files/cpformal_web.pdf)  (with  [Thomas Pepinsky](http://tompepinsky.com/)). 2016.  _Chinese Political Science Review_.
 **Working Papers**
 
 
