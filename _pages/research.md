@@ -11,17 +11,19 @@ author_profile: true
 
 [Communication, Coordination, and Surveillance in the Shadow of Repression](https://osf.io/preprints/osf/eprjt) (with [Tak-Huen Chau](https://www.thchau.net/) and [Mai Hassan](https://maihassan.mit.edu/)). _Forthcoming, American Journal of Political Science_
 
-[Measuring Democratic Backsliding](https://osf.io/n32zk/) (with [Anne Meng](http://www.annemeng.com/)). _Lead article in a [special issue](https://www.cambridge.org/core/journals/ps-political-science-and-politics/special-collections/democratic-backsliding) in PS: Political Science and Politics_
+[Measuring Democratic Backsliding](https://osf.io/n32zk/) (with [Anne Meng](http://www.annemeng.com/)). 2024. _Lead article in a [special issue](https://www.cambridge.org/core/journals/ps-political-science-and-politics/special-collections/democratic-backsliding) in PS: Political Science and Politics_
 - Coverage in [The Washington Post](https://wapo.st/3jUZ3Mm), [The Progress Network](https://theprogressnetwork.org/global-democratic-stability/), [The Interpreter (New York Times)](https://messaging-custom-newsletters.nytimes.com/template/oakv2?campaign_id=30&emc=edit_int_20230127&instance_id=83793&nl=the-interpreter&productCode=INT&regi_id=59763053&segment_id=123662&te=1&uri=nyt%3A%2F%2Fnewsletter%2F858ef62f-562c-5527-95ab-4b24e1bfc5e4&user_id=13dfd9334e1e15ec720dfd71e972a433), [Salon](https://www.salon.com/2023/03/25/is-democracy-starting-to-turn-the-tide-around-the-world-a-new-report-says-just-maybe/), [The Economist](https://www.economist.com/interactive/graphic-detail/2023/09/12/democratic-backsliding-seems-real-even-if-it-is-hard-to-measure), [Morgenbladet](https://www.morgenbladet.no/ideer/2023/02/03/joss-demokratiet-forvitrer-visst-ikke-likevel/), [Folha de S. Paulo](https://www1.folha.uol.com.br/mundo/2023/02/democracia-no-mundo-esta-estavel-nao-em-declinio-sugere-novo-estudo.shtml), [Estadao](https://www.estadao.com.br/politica/gestao-politica-e-sociedade/retrocesso-democratico-global-sobre-conceitos-e-mensuracoes-adequadas/), [Positive News](https://www.positive.news/society/politics/populism-appears-to-be-falling-out-of-favour-for-now/), [The Progress Network](https://theprogressnetwork.org/global-democratic-stability/), [Democracy Digest](https://www.demdigest.org/breaking-news-democracy-more-resilient-than-expected/), [Real Clear Science](https://www.realclearscience.com/articles/2023/01/27/actually_global_democracy_isnt_in_decline_878081.html), [Ufuhamu Africa](https://open.spotify.com/episode/3kqM9Cgjgcd4xUMYZ93t4F?si=q3rNoFhwSiKen7zzFCzskw), [Not Another Politics Podcast](https://effectivegov.uchicago.edu/podcast/are-we-in-a-period-of-global-democratic-decline), [The Good Fight](https://podcasts.apple.com/us/podcast/is-democracy-more-resilient-than-we-think/id1198765424?i=1000623514630), [The Politics Lab](https://www.thepoliticslab.com/episodes/124)
 
 
-[Bayesian Explanations for Persuasion](https://journals.sagepub.com/doi/10.1177/09516298231185060). _Journal of Theoretical Politics_
+
+[Stronger Challengers can Cause More (or Less) Conflict and Institutional Reform](https://journals.sagepub.com/doi/abs/10.1177/00104140231169031) (with [Jack Paine](http://www.jackpaine.com/)). 2024. _Comparative Political Studies_.
+
+[Bayesian Explanations for Persuasion](https://journals.sagepub.com/doi/10.1177/09516298231185060). 2023. _Journal of Theoretical Politics_
 
 
 [A Behavioral Theory of Discrimination in Policing](https://academic.oup.com/ej/article-abstract/133/655/2828/7208011?redirectedFrom=fulltext)  (with  [Ryan Hübert](https://ryanhubert.com/)).  2023. _Economic Journal_.
 
 
-[Stronger Challengers can Cause More (or Less) Conflict and Institutional Reform](https://journals.sagepub.com/doi/abs/10.1177/00104140231169031) (with [Jack Paine](http://www.jackpaine.com/)). 2024. _Comparative Political Studies_.
 
 
 [Motivated Reasoning and Democratic Accountability](https://osf.io/preprints/socarxiv/esfy6/)  (with  [Keith Schnakenberg](http://keith-schnakenberg.com/)  and  [Ian Turner](http://www.ianrturner.com/)). 2022.  _American Political Science Review_.
