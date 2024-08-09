@@ -33,21 +33,26 @@ author_profile: true
 [Learning from Biased Research Designs](https://anthlittle.github.io/files/learningfromobservation.pdf)  (with  [Thomas Pepinsky](http://tompepinsky.com/)). 2021.  _Journal of Politics_.
 
 [I Don’t Know](https://anthlittle.github.io/files/i_dont_know.pdf)  (with  [Matthew Backus](https://mbackus.github.io/)).2020.  _American Political Science Review_. 
+
 –  [Supplemental Information](https://anthlittle.github.io/files/idk_apsr_appendix_final.pdf)
 
 [The Distortion of Related Beliefs](https://anthlittle.github.io/files/little_drb_web.pdf). 2019.  _American Journal of Political Science_. 
 
 [Political Corruption Traps](https://anthlittle.github.io/files/pct_web.pdf)  (with  [Marko Klašnja](http://markoklasnja.com/)  and  [Joshua Tucker](https://as.nyu.edu/content/nyu-as/as/faculty/joshua-tucker.html)). 2017.  _Political Science Research and Methods_. 
+
 –  [Supplemental Information](https://anthlittle.github.io/files/pct_appendix.pdf)
 
 [A Bargaining Theory of Conflict with Evolutionary Preferences](https://anthlittle.github.io/files/little_zeitzoff_btcep_web.pdf)  (with  [Thomas Zeitzoff](http://www.zeitzoff.com/)). 2017.  _International Organization_. 
+
 –  [Supplemental Information](https://anthlittle.github.io/files/btcep_appendix.pdf)
 
 [The Political Violence Cycle](https://anthlittle.github.io/files/pvc_web.pdf)  (with  [S.P. Harish](https://harishsp01.github.io/)). 2017.  _American Political Science Review_.
+
 –  [Supplemental Information](https://anthlittle.github.io/files/pvc_appendix_published.pdf)  
 –  [Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GA0X38)
 
 [Propaganda and Credulity](https://anthlittle.github.io/files/little_propagandacredulity_web.pdf). 2017.  _Games and Economic Behavior_.
+
 –  [Supplemental Information](https://anthlittle.github.io/files/pc_appendix_published.pdf)  
 – Coverage in  [The Boston Globe](https://www.bostonglobe.com/ideas/2015/09/23/why-believe-big-lie/Lz944nG8NupSZEcIQ9KthK/story.html),  [Reason](https://reason.com/2017/02/24/trump-propaganda-and-credulity/)
 
