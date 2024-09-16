@@ -7,6 +7,8 @@ author_profile: true
 
 **Peer-Reviewed**  **Publications**
 
+[Social Segregation and Discriminatory Policing](https://osf.io/9bnwy/)  (with  [Ryan Hübert](https://ryanhubert.com/)). _Forthcoming, Political Science Research and Methods_
+
 [Guilt and Guilty Pleas](https://www.cambridge.org/core/journals/american-political-science-review/article/guilt-and-guilty-pleas/4130613FB4184605B237095630EF99F8) (with [Hannah Simpson](http://www.hannahksimpson.com/)). _Forthcoming, American Political Science Review._
 
 [Communication, Coordination, and Surveillance in the Shadow of Repression](https://osf.io/preprints/osf/eprjt) (with [Tak-Huen Chau](https://www.thchau.net/) and [Mai Hassan](https://maihassan.mit.edu/)). _Forthcoming, American Journal of Political Science_
@@ -90,7 +92,7 @@ author_profile: true
 
 [Information Theory and Biased Beliefs](https://osf.io/preprints/osf/vfqy2)
 
-[Social Segregation and Discriminatory Policing](https://osf.io/9bnwy/)  (with  [Ryan Hübert](https://ryanhubert.com/))
+
 
 [Biased Learning from Elections](https://osf.io/q9zpm/) (with [Thomas Pepinsky](http://tompepinsky.com/) and [Andrew Mack](https://sites.google.com/site/aemack315/))
 
