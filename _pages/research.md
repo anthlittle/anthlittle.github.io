@@ -102,6 +102,7 @@ Limits on Learning: Selective Incorporation and Retention of Political Informati
 Global Patterns of Presidential Election Concessions (with [Anne Meng](http://www.annemeng.com/))
 
 Information Order, Memory, and Partisan Motivated Reasoning (with [Salvatore Nunnari](https://snunnari.github.io/))
+
 **Resting Papers**
 
 [Unbelievable Lies](https://anthlittle.github.io/files/unbelievable_web.pdf)  (with  [Sherif Nasser](https://dyson.cornell.edu/people/sherif-nasser)).
