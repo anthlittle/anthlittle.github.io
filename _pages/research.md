@@ -85,6 +85,7 @@ author_profile: true
 [Fake News, Propaganda, and Lies Can Be Pervasive Even If They Aren’t Persuasive](https://anthlittle.github.io/files/little_fakenews_cp.pdf). 2018.  _Comparative Politics Newsletter_.
 
 [Simple and Formal Models in Comparative Politics](https://anthlittle.github.io/files/cpformal_web.pdf)  (with  [Thomas Pepinsky](http://tompepinsky.com/)). 2016.  _Chinese Political Science Review_.
+
 **Working Papers**
 
 
@@ -92,14 +93,15 @@ author_profile: true
 
 [Information Theory and Biased Beliefs](https://osf.io/preprints/osf/vfqy2)
 
-
-
 [Biased Learning from Elections](https://osf.io/q9zpm/) (with [Thomas Pepinsky](http://tompepinsky.com/) and [Andrew Mack](https://sites.google.com/site/aemack315/))
 
 Assumptions, Models, and Overprecision (with [Ned Augenblick](https://haas.berkeley.edu/faculty/augenblick-ned/), [Matthew Backus](https://mbackus.github.io/), and [Don Moore](http://learnmoore.org/about.html))
 
 Limits on Learning: Selective Incorporation and Retention of Political Information (with [Melina Platas](https://melinaplatas.com/) and [Pia Raffler](https://piaraffler.com/))
 
+Global Patterns of Presidential Election Concessions (with [Anne Meng](http://www.annemeng.com/))
+
+Information Order, Memory, and Partisan Motivated Reasoning (with [Salvatore Nunnari](https://snunnari.github.io/))
 **Resting Papers**
 
 [Unbelievable Lies](https://anthlittle.github.io/files/unbelievable_web.pdf)  (with  [Sherif Nasser](https://dyson.cornell.edu/people/sherif-nasser)).
