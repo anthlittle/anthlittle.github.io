@@ -68,6 +68,7 @@ author_profile: true
 – Coverage in  [Duck of Minerva](http://duckofminerva.com/2014/04/social-media-and-protests-2.html)
 
 [Elections, Protest, and Alternation of Power](https://anthlittle.github.io/files/protestalternation_web.pdf)  (with  [Joshua Tucker](https://as.nyu.edu/content/nyu-as/as/faculty/joshua-tucker.html)  and Tom LaGatta). 2015.  _Journal of Politics_. 
+
 –  [Supplemental Information](https://anthlittle.github.io/files/protestalternation_supplemental.pdf)
 
 [Fraud and Monitoring in Noncompetitive Elections](https://anthlittle.github.io/files/little_fmne_web.pdf). 2015.  _Political Science Research and Methods_. 
