@@ -30,7 +30,7 @@ author_profile: true
 
 [Motivated Reasoning and Democratic Accountability](https://osf.io/preprints/socarxiv/esfy6/)  (with  [Keith Schnakenberg](http://keith-schnakenberg.com/)  and  [Ian Turner](http://www.ianrturner.com/)). 2022.  _American Political Science Review_.
 
-[Kompromat can Align Incentives but Ruin Reputations](https://anthlittle.github.io/files/hubert-little-kompromat.pdf)  (with  [Ryan Hübert](https://ryanhubert.com/)).  2022. _American Journal of Political Science.
+[Kompromat can Align Incentives but Ruin Reputations](https://anthlittle.github.io/files/hubert-little-kompromat.pdf)  (with  [Ryan Hübert](https://ryanhubert.com/)).  2022. _American Journal of Political Science_.
 
 [Learning from Biased Research Designs](https://anthlittle.github.io/files/learningfromobservation.pdf)  (with  [Thomas Pepinsky](http://tompepinsky.com/)). 2021.  _Journal of Politics_.
 
