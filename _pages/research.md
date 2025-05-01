@@ -7,6 +7,10 @@ author_profile: true
 
 **Peer-Reviewed**  **Publications**
 
+[How to Distinguish Motivated Reasoning from Bayesian Updating](https://link.springer.com/article/10.1007/s11109-024-09999-7). _Forthcoming, Political Behavior._
+
+Real and Assumed Information (with [Ned Augenblick](https://haas.berkeley.edu/faculty/augenblick-ned/), [Matthew Backus](https://mbackus.github.io/), and [Don Moore](http://learnmoore.org/about.html)). _Forthcoming, AER (Papers and Proceedings)._
+
 [Social Segregation and Discriminatory Policing](https://osf.io/9bnwy/)  (with  [Ryan Hübert](https://ryanhubert.com/)). _Forthcoming, Political Science Research and Methods_
 
 [Guilt and Guilty Pleas](https://www.cambridge.org/core/journals/american-political-science-review/article/guilt-and-guilty-pleas/4130613FB4184605B237095630EF99F8) (with [Hannah Simpson](http://www.hannahksimpson.com/)). _Forthcoming, American Political Science Review._
@@ -88,9 +92,6 @@ author_profile: true
 [Simple and Formal Models in Comparative Politics](https://anthlittle.github.io/files/cpformal_web.pdf)  (with  [Thomas Pepinsky](http://tompepinsky.com/)). 2016.  _Chinese Political Science Review_.
 
 **Working Papers**
-
-
-[Detecting Motivated Reasoning](https://osf.io/b8tvk)
 
 [Information Theory and Biased Beliefs](https://osf.io/preprints/osf/vfqy2)
 
