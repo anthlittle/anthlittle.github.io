@@ -83,6 +83,8 @@ Real and Assumed Information (with [Ned Augenblick](https://haas.berkeley.edu/fa
 
 **Other Publications**
 
+Real and Assumed Information (with [Ned Augenblick](https://haas.berkeley.edu/faculty/augenblick-ned/), [Matthew Backus](https://mbackus.github.io/), and [Don Moore](http://learnmoore.org/about.html)). 2025. _AEA Papers and Proceedings._
+
 [What We Do and Don't Know About Democratic Backsliding](https://anthlittle.github.io/files/little_meng_psreply.pdf) (with [Anne Meng](http://www.annemeng.com/)). 2024. _PS: Political Science and Politics_
 
 [Selection Neglect and Political Beliefs](https://anthlittle.github.io/files/sn_arps.pdf).  (with [Matthew Brundage](https://polisci.berkeley.edu/people/person/matthew-brundage) and [Soosun You](https://polisci.berkeley.edu/people/person/soo-you)) 2024. _Annual Review of Political Science_
@@ -97,11 +99,11 @@ Real and Assumed Information (with [Ned Augenblick](https://haas.berkeley.edu/fa
 
 [Biased Learning from Elections](https://osf.io/q9zpm/) (with [Thomas Pepinsky](http://tompepinsky.com/) and [Andrew Mack](https://sites.google.com/site/aemack315/))
 
-Assumptions, Models, and Overprecision (with [Ned Augenblick](https://haas.berkeley.edu/faculty/augenblick-ned/), [Matthew Backus](https://mbackus.github.io/), and [Don Moore](http://learnmoore.org/about.html))
+Assumptions, Models, and Overprecision: Theory and Evidence (with [Ned Augenblick](https://haas.berkeley.edu/faculty/augenblick-ned/), [Matthew Backus](https://mbackus.github.io/), and [Don Moore](http://learnmoore.org/about.html))
 
 Limits on Learning: Selective Incorporation and Retention of Political Information (with [Melina Platas](https://melinaplatas.com/) and [Pia Raffler](https://piaraffler.com/))
 
-Global Patterns of Presidential Election Concessions (with [Anne Meng](http://www.annemeng.com/))
+Presidential Election Concessions (with [Anne Meng](http://www.annemeng.com/))
 
 Information Order, Memory, and Partisan Motivated Reasoning (with [Salvatore Nunnari](https://snunnari.github.io/))
 
