@@ -9,7 +9,7 @@ author_profile: true
 
 [How to Distinguish Motivated Reasoning from Bayesian Updating](https://link.springer.com/article/10.1007/s11109-024-09999-7). _Forthcoming, Political Behavior._
 
-[Real and Assumed Information](https://www.aeaweb.org/articles?id=10.1257/pandp.20251109) (with [Ned Augenblick](https://haas.berkeley.edu/faculty/augenblick-ned/), [Matthew Backus](https://mbackus.github.io/), and [Don Moore](http://learnmoore.org/about.html)). 2025. _AEA (Papers and Proceedings)._
+[Real and Assumed Information](https://anthlittle.github.io/files/augenblick-et-al-2025-real-and-assumed-information.pdf) (with [Ned Augenblick](https://haas.berkeley.edu/faculty/augenblick-ned/), [Matthew Backus](https://mbackus.github.io/), and [Don Moore](http://learnmoore.org/about.html)). 2025. _AEA (Papers and Proceedings)._
 
 [Social Segregation and Discriminatory Policing](https://core-prod.cambridgecore.org/core/journals/political-science-research-and-methods/article/social-segregation-intergroup-contact-and-discriminatory-policing/313EE3D8E8901CC844091796BF0E81E1)  (with  [Ryan Hübert](https://ryanhubert.com/)). _Forthcoming, Political Science Research and Methods_
 
