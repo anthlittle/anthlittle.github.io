@@ -97,7 +97,7 @@ author_profile: true
 
 [Biased Learning from Elections](https://osf.io/q9zpm/) (with [Thomas Pepinsky](http://tompepinsky.com/) and [Andrew Mack](https://sites.google.com/site/aemack315/))
 
-Assumptions, Models, and Overprecision: Theory and Evidence (with [Ned Augenblick](https://haas.berkeley.edu/faculty/augenblick-ned/), [Matthew Backus](https://mbackus.github.io/), and [Don Moore](http://learnmoore.org/about.html))
+Assumptions, Disagreement, and Overprecision: Theory and Evidence (with [Ned Augenblick](https://haas.berkeley.edu/faculty/augenblick-ned/), [Matthew Backus](https://mbackus.github.io/), and [Don Moore](http://learnmoore.org/about.html))
 
 Limits on Learning: Selective Incorporation and Retention of Political Information (with [Melina Platas](https://melinaplatas.com/) and [Pia Raffler](https://piaraffler.com/))
 
