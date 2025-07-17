@@ -101,7 +101,7 @@ Assumptions, Models, and Overprecision: Theory and Evidence (with [Ned Augenblic
 
 Limits on Learning: Selective Incorporation and Retention of Political Information (with [Melina Platas](https://melinaplatas.com/) and [Pia Raffler](https://piaraffler.com/))
 
-Presidential Election Concessions (with [Anne Meng](http://www.annemeng.com/))
+[Presidential Election Concessions](https://osf.io/preprints/osf/uhj7n_v4) (with [Anne Meng](http://www.annemeng.com/))
 
 Information Order, Memory, and Partisan Motivated Reasoning (with [Salvatore Nunnari](https://snunnari.github.io/))
 
