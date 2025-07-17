@@ -9,8 +9,6 @@ author_profile: true
 
 [How to Distinguish Motivated Reasoning from Bayesian Updating](https://link.springer.com/article/10.1007/s11109-024-09999-7). _Forthcoming, Political Behavior._
 
-[Real and Assumed Information](https://anthlittle.github.io/files/augenblick-et-al-2025-real-and-assumed-information.pdf) (with [Ned Augenblick](https://haas.berkeley.edu/faculty/augenblick-ned/), [Matthew Backus](https://mbackus.github.io/), and [Don Moore](http://learnmoore.org/about.html)). 2025. _AEA (Papers and Proceedings)._
-
 [Social Segregation and Discriminatory Policing](https://core-prod.cambridgecore.org/core/journals/political-science-research-and-methods/article/social-segregation-intergroup-contact-and-discriminatory-policing/313EE3D8E8901CC844091796BF0E81E1)  (with  [Ryan Hübert](https://ryanhubert.com/)). _Forthcoming, Political Science Research and Methods_
 
 [Guilt and Guilty Pleas](https://www.cambridge.org/core/journals/american-political-science-review/article/guilt-and-guilty-pleas/4130613FB4184605B237095630EF99F8) (with [Hannah Simpson](http://www.hannahksimpson.com/)). _Forthcoming, American Political Science Review._
@@ -83,7 +81,7 @@ author_profile: true
 
 **Other Publications**
 
-Real and Assumed Information (with [Ned Augenblick](https://haas.berkeley.edu/faculty/augenblick-ned/), [Matthew Backus](https://mbackus.github.io/), and [Don Moore](http://learnmoore.org/about.html)). 2025. _AEA Papers and Proceedings._
+[Real and Assumed Information](https://anthlittle.github.io/files/augenblick-et-al-2025-real-and-assumed-information.pdf) (with [Ned Augenblick](https://haas.berkeley.edu/faculty/augenblick-ned/), [Matthew Backus](https://mbackus.github.io/), and [Don Moore](http://learnmoore.org/about.html)). 2025. _AEA (Papers and Proceedings)._
 
 [What We Do and Don't Know About Democratic Backsliding](https://anthlittle.github.io/files/little_meng_psreply.pdf) (with [Anne Meng](http://www.annemeng.com/)). 2024. _PS: Political Science and Politics_
 
