@@ -15,11 +15,13 @@ Sign up for my office hours  [here](https://calendar.google.com/calendar/selfsch
 
 **Classes taught at Berkeley**
 
+Democracy (Undergraduate)
+
 Formal Models in Political Science (Graduate,  [232A Syllabus](https://anthlittle.github.io/files/GT1syllabusS21.pdf),  [232B Syllabus](https://anthlittle.github.io/files/232BsyllabusFA21.pdf))
 
 The Scientific Study of Politics (Undergraduate,  [Syllabus](https://anthlittle.github.io/files/ps88syllabusF2021.pdf),  [Github](https://github.com/ds-connectors/PolSci-88-FA21))
 
-Intro to Empirical Analysis & Quantitative Methods ([Syllabus](https://anthlittle.github.io/files/ps3syllabusF2020.pdf))
+Intro to Empirical Analysis & Quantitative Methods (Undergraduate, [Syllabus](https://anthlittle.github.io/files/ps3syllabusF2020.pdf))
 
 Game Theory in the Social Sciences (Undergraduate,  [Syllabus](https://anthlittle.github.io/files/gtss-syllabus-FA2017.pdf))
 
