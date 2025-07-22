@@ -29,7 +29,6 @@ author_profile: true
 
 
 
-
 [Motivated Reasoning and Democratic Accountability](https://osf.io/preprints/socarxiv/esfy6/)  (with  [Keith Schnakenberg](http://keith-schnakenberg.com/)  and  [Ian Turner](http://www.ianrturner.com/)). 2022.  _American Political Science Review_.
 
 [Kompromat can Align Incentives but Ruin Reputations](https://anthlittle.github.io/files/hubert-little-kompromat.pdf)  (with  [Ryan Hübert](https://ryanhubert.com/)).  2022. _American Journal of Political Science_.
@@ -79,9 +78,11 @@ author_profile: true
 
 [Elections, Fraud, and Election Monitoring in the Shadow of Revolution](https://anthlittle.github.io/files/little_ggelec_web.pdf). 2012.  _Quarterly Journal of Political Science_.
 
-**Other Publications**
+**Other Publications/Writing**
 
 [Real and Assumed Information](https://anthlittle.github.io/files/augenblick-et-al-2025-real-and-assumed-information.pdf) (with [Ned Augenblick](https://haas.berkeley.edu/faculty/augenblick-ned/), [Matthew Backus](https://mbackus.github.io/), and [Don Moore](http://learnmoore.org/about.html)). 2025. _AEA (Papers and Proceedings)._
+
+[The Accuracy of Expert Forecasts of Negative Democratic Events](https://brightlinewatch.org/the-accuracy-of-expert-forecasts-of-negative-democratic-events/), 2024, collaboration with [Bright Line Watch](https://brightlinewatch.org/).
 
 [What We Do and Don't Know About Democratic Backsliding](https://anthlittle.github.io/files/little_meng_psreply.pdf) (with [Anne Meng](http://www.annemeng.com/)). 2024. _PS: Political Science and Politics_
 
@@ -97,11 +98,11 @@ author_profile: true
 
 [Biased Learning from Elections](https://osf.io/q9zpm/) (with [Thomas Pepinsky](http://tompepinsky.com/) and [Andrew Mack](https://sites.google.com/site/aemack315/))
 
+[Presidential Election Concessions](https://osf.io/preprints/osf/uhj7n_v4) (with [Anne Meng](http://www.annemeng.com/))
+
 Assumptions, Disagreement, and Overprecision: Theory and Evidence (with [Ned Augenblick](https://haas.berkeley.edu/faculty/augenblick-ned/), [Matthew Backus](https://mbackus.github.io/), and [Don Moore](http://learnmoore.org/about.html))
 
 Limits on Learning: Selective Incorporation and Retention of Political Information (with [Melina Platas](https://melinaplatas.com/) and [Pia Raffler](https://piaraffler.com/))
-
-[Presidential Election Concessions](https://osf.io/preprints/osf/uhj7n_v4) (with [Anne Meng](http://www.annemeng.com/))
 
 Information Order, Memory, and Partisan Motivated Reasoning (with [Salvatore Nunnari](https://snunnari.github.io/))
 
