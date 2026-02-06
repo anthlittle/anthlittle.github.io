@@ -9,7 +9,7 @@ author_profile: true
 
 [How to Distinguish Motivated Reasoning from Bayesian Updating](https://link.springer.com/article/10.1007/s11109-024-09999-7). _Forthcoming, Political Behavior._
 
-[Social Segregation, Intergroup Contact, and Discriminatory Policing](https://core-prod.cambridgecore.org/core/journals/political-science-research-and-methods/article/social-segregation-intergroup-contact-and-discriminatory-policing/313EE3D8E8901CC844091796BF0E81E1)  (with  [Ryan Hübert](https://ryanhubert.com/)). _Forthcoming, Political Science Research and Methods_
+[Social Segregation, Intergroup Contact, and Discriminatory Policing](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/social-segregation-intergroup-contact-and-discriminatory-policing/313EE3D8E8901CC844091796BF0E81E1)  (with  [Ryan Hübert](https://ryanhubert.com/)). _Forthcoming, Political Science Research and Methods_
 
 [Guilt and Guilty Pleas](https://www.cambridge.org/core/journals/american-political-science-review/article/guilt-and-guilty-pleas/4130613FB4184605B237095630EF99F8) (with [Hannah Simpson](http://www.hannahksimpson.com/)). 2025. _American Political Science Review._
 
