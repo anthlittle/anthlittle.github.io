@@ -94,13 +94,13 @@ author_profile: true
 
 **Working Papers**
 
+[Assumptions, Disagreement, and Overprecision: Theory and Evidence](https://osf.io/preprints/osf/mnv4k)  (with [Ned Augenblick](https://haas.berkeley.edu/faculty/augenblick-ned/), [Matthew Backus](https://mbackus.github.io/), and [Don Moore](http://learnmoore.org/about.html)). _Revise and Resubmit, Econometrica._
+
 [Information Theory and Biased Beliefs](https://osf.io/preprints/osf/vfqy2)
 
 [Biased Learning from Elections](https://osf.io/q9zpm/) (with [Thomas Pepinsky](http://tompepinsky.com/) and [Andrew Mack](https://sites.google.com/site/aemack315/))
 
 [Presidential Election Concessions](https://osf.io/preprints/osf/uhj7n_v4) (with [Anne Meng](http://www.annemeng.com/))
-
-[Assumptions, Disagreement, and Overprecision: Theory and Evidence](https://osf.io/preprints/osf/mnv4k)  (with [Ned Augenblick](https://haas.berkeley.edu/faculty/augenblick-ned/), [Matthew Backus](https://mbackus.github.io/), and [Don Moore](http://learnmoore.org/about.html))
 
 Limits on Learning: Selective Incorporation and Retention of Political Information (with [Melina Platas](https://melinaplatas.com/) and [Pia Raffler](https://piaraffler.com/))
 
