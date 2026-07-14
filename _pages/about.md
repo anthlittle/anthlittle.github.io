@@ -16,5 +16,5 @@ My older research primarily used formal models to study topics like authoritaria
 
 I am also an Associate Editor at the [American Journal of Political Science](https://onlinelibrary.wiley.com/journal/15405907)
 
-[CV](https://anthlittle.github.io/files/little_cv2025.pdf)
+[CV](https://anthlittle.github.io/files/little_cv2026.pdf)
 
