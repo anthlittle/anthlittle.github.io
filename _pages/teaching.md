@@ -5,7 +5,7 @@ title: "Teaching"
 author_profile: true
 ---
 
-Sign up for my office hours  [here](https://calendar.google.com/calendar/selfsched?sstoken=UUh1UUZmQml5cTRUfGRlZmF1bHR8NzBiYTg5YzQyZGRhZWYzOTljODYwZWIxYWJkOWIwNTI).
+Sign up for my office hours  [here](https://calendar.app.google/YrrSxQw11srRSe3F9).
 
 **Teaching Materials for Public Consumption**
 
